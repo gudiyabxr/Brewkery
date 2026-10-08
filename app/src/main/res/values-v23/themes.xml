@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Brewkery" parent="Base.Theme.Brewkery">
+        <item name="android:statusBarColor">@color/status_bar_coffee</item>
+        <item name="android:navigationBarColor">@color/nav_bar_coffee</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

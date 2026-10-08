@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Brewkery" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Brewkery" parent="Base.Theme.Brewkery" />
+</resources>
